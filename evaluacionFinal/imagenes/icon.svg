@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <defs>
+  <radialGradient cx="0.287781" cy="0.304688" id="svg_32" r="0.5" spreadMethod="pad">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.967468" stop-color="#bf0000" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#bf0000" stop-opacity="0.996094"/>
+  </radialGradient>
+  <radialGradient cx="0.475281" cy="0.558594" id="svg_34" r="0.5" spreadMethod="pad">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="0.487" stop-color="#bf0000" stop-opacity="0.996094"/>
+   <stop offset="1" stop-color="#cccccc" stop-opacity="0.996094"/>
+  </radialGradient>
+  <radialGradient cx="0.576843" cy="0.371094" id="svg_37" spreadMethod="pad">
+   <stop offset="0.381531" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#cccccc" stop-opacity="0.996094"/>
+  </radialGradient>
+  <radialGradient cx="0.572937" cy="0.394531" id="svg_44" spreadMethod="pad">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </radialGradient>
+  <radialGradient cx="0.803406" cy="0.410156" id="svg_47" spreadMethod="pad">
+   <stop offset="0" stop-color="#7f0000"/>
+   <stop offset="1" stop-color="#bf0000" stop-opacity="0.996094"/>
+  </radialGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <rect fill="url(#svg_34)" height="116" id="svg_9" stroke="url(#svg_32)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(43.0585 218.626 167.585)" width="14.226322" x="211.512581" y="109.58473"/>
+  <rect fill="url(#svg_47)" height="139.206839" id="svg_10" stroke="url(#svg_44)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(90.703 398.972 229.573)" width="30.152205" x="383.895436" y="159.96981"/>
+  <line fill="none" id="svg_11" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="167.5" x2="254.5" y1="205.5" y2="113.5"/>
+  <line fill="none" id="svg_12" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="253.5" x2="323.5" y1="116.5" y2="183.5"/>
+  <line fill="none" id="svg_15" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="169.5" x2="316.5" y1="206.5" y2="341.5"/>
+  <line fill="none" id="svg_16" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="238.5" x2="314.5" y1="422.5" y2="342.5"/>
+  <line fill="none" id="svg_17" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="165.5" x2="238.5" y1="357.5" y2="425.5"/>
+  <line fill="none" id="svg_19" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="167" x2="254" y1="238.5" y2="146.5"/>
+  <line fill="none" id="svg_18" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="253" x2="323" y1="149.5" y2="216.5"/>
+  <line fill="none" id="svg_22" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="170.5" x2="317.5" y1="238" y2="373"/>
+  <line fill="none" id="svg_21" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="239.5" x2="315.5" y1="454" y2="374"/>
+  <line fill="none" id="svg_20" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" x1="166.5" x2="239.5" y1="389" y2="457"/>
+  <path d="m292.506446,144.004992c6.244479,-4.866805 19.854903,3.009206 19.366854,-9.683422c6.185452,-4.358613 10.94942,-13.910792 0.947874,-17.108431c-5.69934,-2.733924 -8.374412,6.046372 -10.357998,6.60001c-4.116351,-5.735779 -1.79374,-15.085246 -0.173545,-21.145177c5.177171,-3.220872 13.666111,-6.896568 7.675284,-14.073154c-1.241234,-7.83338 -2.001046,-16.971091 -9.400037,-21.705961c-5.522112,-3.31674 -13.319413,-6.47875 -10.609485,-14.264926c-3.565099,-5.377384 -7.693278,-12.728759 -5.326667,-19.368161c5.397665,-0.956543 4.763798,12.684991 5.792778,9.802317c-2.02745,-4.386382 4.846196,-14.48586 4.452919,-5.174011c-0.414913,3.340529 -0.146204,10.109036 1.689029,3.405018c4.975184,-7.391021 0.095603,12.812221 4.979047,4.794637c3.445045,-1.115179 2.395323,4.937396 5.720235,1.944745c3.640003,2.780821 6.305654,3.402573 6.293302,8.023893c4.850515,1.753497 8.469158,4.654048 7.508222,9.264333c9.466256,-2.284055 1.373302,9.522187 8.110625,12.814492c3.631673,5.75733 5.264173,11.525392 5.002461,18.362658c7.475097,-2.065815 12.405035,-10.56759 20.125157,-13.212871c8.667519,-4.016821 11.772984,-14.002823 13.655452,-22.628409c0.840474,-4.161808 6.116269,-3.958043 4.495624,0.716943c6.071109,-6.543 3.537192,-16.069013 5.251657,-24.025777c0.549685,-4.450437 -1.234328,-14.261359 2.512885,-15.17752c5.591051,5.018582 -1.241827,16.113523 4.208228,19.443796c3.841979,-7.168685 2.480177,-15.743146 2.68824,-23.567238c-0.093909,-4.516222 4.387346,-7.505941 4.170709,-1.059439c1.87933,5.564435 -0.214302,17.052193 0.873033,19.077256c4.272002,-6.605054 3.358841,-15.499984 7.88839,-21.704601c6.231936,2.337662 -1.766235,12.828353 -1.563868,18.385664c0.835367,4.267826 6.943274,-12.498574 7.250824,-3.254755c-2.814073,2.443104 -2.343166,9.169953 0.801087,3.751478c1.214497,-4.44977 9.521949,-2.957731 4.160654,1.103668c-3.98115,3.457826 6.984819,3.214707 2.184107,7.016193c3.202947,5.289921 -5.5115,8.418207 -0.52508,12.231157c-0.286798,1.535691 3.979906,4.525214 2.093934,8.212622c1.880171,3.395672 -6.693824,5.600324 -1.099174,7.923532c0.323607,7.918917 -9.684316,13.37971 -7.491323,20.772933c-0.646442,8.909829 -7.369094,16.386831 -14.56359,21.095979c-6.64651,1.260351 -11.802129,3.92977 -17.515108,7.612944c-3.761846,0.064663 -5.097339,0.047055 -7.064566,2.762154c-3.096309,-2.401971 -8.201952,-6.031796 -7.326897,1.242568c1.325115,9.033863 12.786283,9.931924 18.882277,14.737839c6.501761,2.29492 15.005478,9.922768 7.964284,15.894167c-0.681256,8.488295 -11.976627,3.404145 -14.910188,6.340706c-4.208969,0.62922 -3.770457,3.600188 -7.509773,0.057513c-3.641866,4.880856 -11.788401,-0.402264 -15.672481,-2.519119c-6.300166,3.006078 -9.180548,-12.103334 -10.339019,-1.526911c-2.559305,7.188828 -12.953816,-0.537094 -12.902706,8.654589c-4.755626,-0.977151 -4.979434,6.455637 -10.080149,5.708983c3.208144,-1.489583 5.390255,-10.007489 -0.368821,-5.901083c-4.709958,-3.577864 -1.990165,8.804376 -5.873832,2.357249c-0.854292,-8.370152 8.651763,-8.535329 14.008544,-10.038985c1.923818,-4.864688 4.35947,-11.259833 3.849113,-15.951251c-5.063441,2.035304 -9.503822,6.398548 -15.411198,6.769152c0.367741,4.421408 -3.05787,11.565641 -8.324853,7.451942c7.572192,2.952201 4.226381,-13.260074 -0.34963,-5.24864c-1.793788,5.285735 -1.571531,-7.636485 -6.759631,-3.875057c-2.719222,1.977749 -0.873033,6.557448 -3.574451,1.244981c-0.525398,-1.07105 -0.607648,-2.591991 0.491246,-3.363224l0,0.000011z" fill="url(#svg_37)" id="svg_29" stroke="#bf0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5"/>
+  <rect fill="url(#svg_34)" height="170.384417" id="svg_35" stroke="url(#svg_32)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(132.433 241.922 289.008)" width="14.226322" x="234.808535" y="203.815695"/>
+  <rect fill="url(#svg_34)" height="107.807064" id="svg_36" stroke="url(#svg_32)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(43.0585 268.797 406.507)" width="14.226322" x="261.683684" y="352.603358"/>
+  <rect fill="url(#svg_34)" height="74.723829" id="svg_38" stroke="url(#svg_32)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(133.377 287.999 166.326)" width="14.226322" x="280.885965" y="128.964018"/>
+  <rect fill="url(#svg_34)" height="74.723829" id="svg_39" stroke="url(#svg_32)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(133.377 201 406.5)" width="14.226322" x="193.88685" y="369.138082"/>
+  <rect fill="url(#svg_47)" height="141.464338" id="svg_40" stroke="url(#svg_44)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(90.703 385.845 297.428)" width="38.685281" x="366.50255" y="226.695433"/>
+  <rect fill="url(#svg_47)" height="144.022419" id="svg_42" stroke="url(#svg_44)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(90.703 400.46 381.236)" width="30.152205" x="385.384191" y="309.224488"/>
+  <rect fill="url(#svg_47)" height="187.105077" id="svg_46" stroke="url(#svg_44)" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-width="5" transform="rotate(-179.239 344 304.5)" width="30.152205" x="328.923881" y="210.947475"/>
+ </g>
+</svg>
